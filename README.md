@@ -10,9 +10,13 @@
 [[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/PyTorch-Deep-Learning/blob/master/01-Basic_Tensors.ipynb)
 [[Colab]](https://colab.research.google.com/github/twMr7/PyTorch-Deep-Learning/blob/master/01-Basic_Tensors.ipynb)
 
-1. **線性回歸 - 用 PyTorch 動手做**
+2. **線性回歸 - 用 PyTorch 動手做**
 [[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/PyTorch-Deep-Learning/blob/master/02-Linear_Regression_with_PyTorch.ipynb)
 [[Colab]](https://colab.research.google.com/github/twMr7/PyTorch-Deep-Learning/blob/master/02-Linear_Regression_with_PyTorch.ipynb)
+
+3. **CNN簡介 - 用 PyTorch-Lightning 動手做**
+[[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/PyTorch-Deep-Learning/blob/master/03-CNN_Introduction_with_Lightning.ipynb)
+[[Colab]](https://colab.research.google.com/github/twMr7/PyTorch-Deep-Learning/blob/master/03-CNN_Introduction_with_Lightning.ipynb)
 
 ---
 
