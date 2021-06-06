@@ -18,8 +18,12 @@
 [[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/PyTorch-Deep-Learning/blob/master/03-CNN_Introduction_with_Lightning.ipynb)
 [[Colab]](https://colab.research.google.com/github/twMr7/PyTorch-Deep-Learning/blob/master/03-CNN_Introduction_with_Lightning.ipynb)
 
+3. **經典CNN骨幹網路 - PyTorch-Lightning 範例**
+[[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/PyTorch-Deep-Learning/blob/master/04-Classic_CNN_Backbones_with_Lightning.ipynb)
+[[Colab]](https://colab.research.google.com/github/twMr7/PyTorch-Deep-Learning/blob/master/04-Classic_CNN_Backbones_with_Lightning.ipynb)
+
 ---
 
-**May, 2021**
+**June, 2021**
 
 ***James Chang***
